@@ -1,0 +1,18 @@
+401games:
+  name: "401 Games"
+  website: "https://store.401games.ca/"
+  starting_string: "'ecomm_totalvalue': "
+  pokemon:
+    chillreign:
+      boosterbox: "products/pokemon-chillingreign-boosterbox"
+      elb_icerider: "products/pokemon-chillingreign-elitetrainerbox-iceridercalyrexpre-order"
+      elb_shadowrider: "products/pokemon-chillingreign-elitetrainerbox-shadowridercalyrexpre-order"
+hairyt:
+  name: "Hairy Tarantula"
+  website: "https://hairyt.com/"
+  starting_string: "Sale price</span>$"
+  pokemon:
+    chillreign:
+      boosterbox: "collections/pokemon-sealed-product/products/sword-and-shield-chilling-reign-booster-box"
+      elb_icerider: "products/sword-and-shield-chilling-reign-elite-trainer-box-blue"
+      elb_shadowrider: "products/copy-of-sword-and-shield-chilling-reign-elite-trainer-box-purple"

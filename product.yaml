@@ -1,0 +1,19 @@
+pokemon:
+  name: "Pokemon TCG"
+  sets:
+    chillreign:
+      name: "Chilling Reign"
+      tag: "TCG"
+      products:
+        boosterbox:
+          name: "Pokémon TCG: Sword & Shield - Chilling Reign Booster Box"
+          tag: "Booster Box"
+          sku: "tcg-pkmn-swsh6-boxset-chillreign001"
+        elb_icerider:
+          name: "Pokémon TCG: Sword & Shield - Chilling Reign Elite Trainer Box - Ice Rider Calyrex"
+          tag: "Elite Trainer Box"
+          sku: "tcg-pkmn-swsh6-elb-chillreign001icerider"
+        elb_shadowrider:
+          name: "Pokémon TCG: Sword & Shield - Chilling Reign Elite Trainer Box - Shadow Rider Calyrex"
+          tag: "Elite Trainer Box"
+          sku: "tcg-pkmn-swsh6-elb-chillreign001shadowrider"
