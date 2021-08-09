@@ -1,19 +1,78 @@
-pokemon:
-  name: "Pokemon TCG"
-  sets:
-    chillreign:
-      name: "Chilling Reign"
-      tag: "TCG"
-      products:
-        boosterbox:
-          name: "Pokémon TCG: Sword & Shield - Chilling Reign Booster Box"
-          tag: "Booster Box"
-          sku: "tcg-pkmn-swsh6-boxset-chillreign001"
-        elb_icerider:
-          name: "Pokémon TCG: Sword & Shield - Chilling Reign Elite Trainer Box - Ice Rider Calyrex"
-          tag: "Elite Trainer Box"
-          sku: "tcg-pkmn-swsh6-elb-chillreign001icerider"
-        elb_shadowrider:
-          name: "Pokémon TCG: Sword & Shield - Chilling Reign Elite Trainer Box - Shadow Rider Calyrex"
-          tag: "Elite Trainer Box"
-          sku: "tcg-pkmn-swsh6-elb-chillreign001shadowrider"
+0:
+    id: "placeholder"
+    url: "https://store.401games.ca/products/pokemon-chillingreign-boosterbox"
+    csv_data:
+        product_name: "XPath=//*[@id=\"AddToCartForm\"]/div[1]/h1"
+        product_category: "TCG"
+        product_subcategory: "Chilling Reign"
+        brand: "Pokemon"
+        vendor: "401 Games"
+        price: "XPath=//*[@id=\"ProductPrice-product-template\"]"
+        tag: "Booster Box"
+        sku: "tcg-pkmn-swsh6-boxset-chillreign001"
+        comments: ""
+1:
+    id: "placeholder"
+    url: "https://store.401games.ca/products/pokemon-chillingreign-elitetrainerbox-iceridercalyrexpre-order"
+    csv_data:
+        product_name: "XPath=//*[@id=\"AddToCartForm\"]/div[1]/h1"
+        product_category: "TCG"
+        product_subcategory: "Chilling Reign"
+        brand: "Pokemon"
+        vendor: "401 Games"
+        price: "XPath=//*[@id=\"ProductPrice-product-template\"]"
+        tag: "Elite Trainer Box"
+        sku: "tcg-pkmn-swsh6-elb-chillreign001icerider"
+        comments: ""
+2:
+    id: "placeholder"
+    url: "https://store.401games.ca/products/pokemon-chillingreign-elitetrainerbox-shadowridercalyrexpre-order"
+    csv_data:
+        product_name: "XPath=//*[@id=\"AddToCartForm\"]/div[1]/h1"
+        product_category: "TCG"
+        product_subcategory: "Chilling Reign"
+        brand: "Pokemon"
+        vendor: "401 Games"
+        price: "XPath=//*[@id=\"ProductPrice-product-template\"]"
+        tag: "Elite Trainer Box"
+        sku: "tcg-pkmn-swsh6-elb-chillreign001shadowrider"
+        comments: ""
+3:
+    id: "placeholder"
+    url: "https://hairyt.com/collections/pokemon-sealed-product/products/sword-and-shield-chilling-reign-booster-box"
+    csv_data:
+        product_name: "XPath=//*[@id=\"shopify-section-product-template\"]/section/div[1]/div[2]/div/div[2]/div/div[2]/div[1]/h1"
+        product_category: "TCG"
+        product_subcategory: "Chilling Reign"
+        brand: "Pokemon"
+        vendor: "Hairy Tarantula"
+        price: "XPath=//*[starts-with(@id, \"product_form\")]/div[2]/div[1]/div/div[1]/span/text()"
+        tag: "Booster Box"
+        sku: "tcg-pkmn-swsh6-boxset-chillreign001"
+        comments: ""
+4:
+    id: "placeholder"
+    url: "https://hairyt.com/products/sword-and-shield-chilling-reign-elite-trainer-box-blue"
+    csv_data:
+        product_name: "XPath=//*[@id=\"shopify-section-product-template\"]/section/div[1]/div[2]/div/div[2]/div/div[2]/div[1]/h1"
+        product_category: "TCG"
+        product_subcategory: "Chilling Reign"
+        brand: "Pokemon"
+        vendor: "Hairy Tarantula"
+        price: "XPath=//*[starts-with(@id, \"product_form\")]/div[2]/div[1]/div/div[1]/span/text()"
+        tag: "Elite Trainer Box"
+        sku: "tcg-pkmn-swsh6-elb-chillreign001icerider"
+        comments: ""
+5:
+    id: "placeholder"
+    url: "https://hairyt.com/products/copy-of-sword-and-shield-chilling-reign-elite-trainer-box-purple"
+    csv_data:
+        product_name: "XPath=//*[@id=\"shopify-section-product-template\"]/section/div[1]/div[2]/div/div[2]/div/div[2]/div[1]/h1"
+        product_category: "TCG"
+        product_subcategory: "Chilling Reign"
+        brand: "Pokemon"
+        vendor: "Hairy Tarantula"
+        price: "XPath=//*[starts-with(@id, \"product_form\")]/div[2]/div[1]/div/div[1]/span/text()"
+        tag: "Elite Trainer Box"
+        sku: "tcg-pkmn-swsh6-elb-chillreign001icerider"
+        comments: ""
